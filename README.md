@@ -82,8 +82,8 @@ A full-stack weather application built with Node.js backend and Vue 3 + Vite + P
 1. Access the application at `http://localhost:5173`
    访问应用 `http://localhost:5173`
 
-2. Search for a Chinese city in the search bar
-   在搜索栏中输入中国城市名称
+2. Search for a Chinese city by click 
+   通过点击输入中国城市名称
 
 3. View current weather, hourly forecast, 7-day forecast, and living indices
    查看当前天气、逐小时预报、7天预报和生活指数
